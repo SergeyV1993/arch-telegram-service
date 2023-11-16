@@ -1,0 +1,7 @@
+TELEGRAMM_TOKEN="token"
+
+KAFKA_URL:"kafka:29092"
+KAFKA_TOPIC:"updates"
+KAFKA_TELEGRAM_TOPIC:"telegram_topic"
+
+PAGINATION_OFFSET:5
